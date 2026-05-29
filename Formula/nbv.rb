@@ -5,8 +5,8 @@ class Nbv < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/phd1000x-ux/nbv/releases/download/v0.5.1/nbv-v0.5.1-aarch64-apple-darwin.tar.gz"
-      sha256 "be5cf25996d1222da0f6fb5c756ee27fb91c517d3cbf4e8c9797e05ebd6ef3c2"
+      url "https://github.com/phd1000x-ux/nbv/releases/download/v0.6.0/nbv-v0.6.0-aarch64-apple-darwin.tar.gz"
+      sha256 "317e39efb5bdaed8219ec661a75f6a61017218b568872c5e24e4ce073de50a22"
     end
   end
 
